@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/forum/static/css/main.e3602987.chunk.css",
-    "main.js": "/forum/static/js/main.90ede1d0.chunk.js",
-    "main.js.map": "/forum/static/js/main.90ede1d0.chunk.js.map",
+    "main.js": "/forum/static/js/main.86abe722.chunk.js",
+    "main.js.map": "/forum/static/js/main.86abe722.chunk.js.map",
     "runtime-main.js": "/forum/static/js/runtime-main.f5eea032.js",
     "runtime-main.js.map": "/forum/static/js/runtime-main.f5eea032.js.map",
-    "static/js/2.8db618b5.chunk.js": "/forum/static/js/2.8db618b5.chunk.js",
-    "static/js/2.8db618b5.chunk.js.map": "/forum/static/js/2.8db618b5.chunk.js.map",
+    "static/js/2.ecbc5223.chunk.js": "/forum/static/js/2.ecbc5223.chunk.js",
+    "static/js/2.ecbc5223.chunk.js.map": "/forum/static/js/2.ecbc5223.chunk.js.map",
     "index.html": "/forum/index.html",
-    "precache-manifest.deab33c19796c779f221ec4697dcc0d9.js": "/forum/precache-manifest.deab33c19796c779f221ec4697dcc0d9.js",
+    "precache-manifest.f36bc87b36feec0613a51ba7553e8996.js": "/forum/precache-manifest.f36bc87b36feec0613a51ba7553e8996.js",
     "service-worker.js": "/forum/service-worker.js",
     "static/css/main.e3602987.chunk.css.map": "/forum/static/css/main.e3602987.chunk.css.map",
-    "static/js/2.8db618b5.chunk.js.LICENSE.txt": "/forum/static/js/2.8db618b5.chunk.js.LICENSE.txt"
+    "static/js/2.ecbc5223.chunk.js.LICENSE.txt": "/forum/static/js/2.ecbc5223.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5eea032.js",
-    "static/js/2.8db618b5.chunk.js",
+    "static/js/2.ecbc5223.chunk.js",
     "static/css/main.e3602987.chunk.css",
-    "static/js/main.90ede1d0.chunk.js"
+    "static/js/main.86abe722.chunk.js"
   ]
 }
